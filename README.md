@@ -1,2 +1,4 @@
-# MahjsoulandroidKorean
-작혼 안드로이드 한글화
+# 사용법
+
+
+# 시트 추출방법
